@@ -1,0 +1,246 @@
+@media (min-width: 992px) and ( max-width: 1199px){
+    .menubar {
+        margin-left: 65px;
+    }
+    .inner-img {
+        width: 300px !important;
+        margin-left: 170px;
+    }
+    .banner-heading {
+        margin-top: -7px !important;
+    }
+    .about-text {
+        margin-top: -7px !important;
+        margin-bottom: 20px;
+    }
+    .button {
+        margin-top: 0px !important;
+    }
+    .heading {
+        margin-top: 5px !important;
+        margin-bottom: 5px !important;
+    }
+    .card-1 {
+        margin-right: 20px !important;
+        margin-left: 12px !important;
+    }
+    .card-2 {
+        margin-right: 20px !important;
+    }
+    .card-3 {
+        margin-right: 20px !important;
+    }
+    .card-4 {
+        margin-right: 0px !important;
+    }
+    .contact {
+        margin-left: 68px !important;
+        margin-right: 0px !important;
+        margin-top: 230px !important;
+    }
+}
+
+@media (min-width: 768px) and ( max-width: 991px){
+    .nav-link {
+        font-size: 17px;
+    }
+    .menubar {
+        margin-left: 28px !important;
+    }
+    .navbar-brand {
+        margin-right: -7rem;
+        
+    }
+    .banner-heading {
+        width: 50% !important;
+    }
+    .banner-img {
+        width: 50% !important;
+    }
+    .inner-img {
+        width: 300px !important;
+    }
+    .banner-heading {
+        width: 50% !important;
+        margin-top: 0px !important;
+    }
+    .about {
+        width: 50%;
+
+    }
+    .about-text {
+        width: 50%;
+        margin-top: -5px !important;
+    }
+    .about-img {
+        height: 305px;
+        width: 305px !important;
+    }
+    .button {
+        margin-top: 0px !important;
+    }
+    .heading {
+        margin-top: 5px !important;
+        margin-bottom: 5px !important;
+    }
+    .about-me {
+        text-align: justify;
+    }
+    .service-1 {
+        width: 33%;
+        padding-left: 0px !important;
+    }
+    .service-2 {
+        width: 33%;
+        
+    }
+    .service-3 {
+        width: 33%;
+        padding-right: 0px !important;
+    }
+    .card-item {
+        height: 445px;
+    }
+    .card-item h5 {
+        line-height: 35px;
+        font-size: 18px;
+    }
+    .about-item {
+        margin-top: 30px;
+    }
+    .card-1 {
+        width: 45% !important;
+        margin-top: 75px !important;
+        margin-left: 14px;
+        
+    }
+    .card-2 {
+        width: 45% !important;
+        margin-top: 75px !important;
+        margin-right: 0px !important;
+        margin-left: 16px;
+    }
+    .card-3 {
+        width: 45% !important;
+        margin-top: 75px !important;
+        margin-left: 14px;
+        
+    }
+    .card-4 {
+        width: 45% !important;
+        margin-top: 75px !important;
+        margin-right: 0px !important;
+        margin-left: 16px;
+    }
+    .contact {
+        text-align: center !important;
+        margin-left: 0px !important;
+        padding-left: 0px !important;
+        margin-top: -45px !important;
+        margin-bottom: 15px;
+    }
+    
+    
+}
+@media (min-width: 576px) and ( max-width: 767px){
+    .banner-heading {
+        width: 50%;
+        margin-top: -13px !important;
+        margin-bottom: 0px !important;
+      
+    }
+    .banner-img {
+        width: 50%;
+    }
+    .inner-img {
+        width: 267px !important;
+    }
+    .about-img {
+        margin-left: 70px;
+    }
+    .about-text {
+        text-align: center;
+        margin-top: -65px !important;
+    }
+    .button {
+        margin-bottom: 34px;
+    }
+    .card-1 {
+        width: 45% !important;
+    }
+    .card-2 {
+        width: 44% !important;
+        margin-right: 0px !important;
+        margin-left: 30px;
+    }
+    .card-3 {
+        width: 45% !important;
+        margin-top: 70px !important;
+    }
+    .card-4 {
+        width: 44% !important;
+        margin-right: 0px !important;
+        margin-left: 30px;
+        margin-top: 70px !important;
+    }
+    .contact {
+        text-align: center;
+        padding-left: 0px;
+        margin-left: 0px !important;
+        margin-top: -40px !important;
+        margin-bottom: 15px;
+    }
+    .footer-text {
+        font-size: 16px !important;
+    }
+}
+@media (min-width: 420px) and ( max-width: 575px){
+    .banner-heading {
+        margin-top: 0px !important;
+        text-align: center;
+        margin-bottom: 0px !important;
+    }
+    .inner-img {
+        width: 70% !important;
+        margin-left: 20px;
+    }
+    .about-img {
+        margin-left: 65px;
+    }
+    .about-text {
+        text-align: center !important;
+        margin-top: -70px !important;
+        margin-bottom: 25px;
+    }
+    .card-1 {
+        width: 85% !important;
+        margin-left: 40px;
+        margin-bottom: 75px !important;
+    }
+    .card-2 {
+        width: 85% !important;
+        margin-left: 40px;
+        margin-bottom: 75px !important;
+    }
+    .card-3 {
+        width: 85% !important;
+        margin-left: 40px;
+        margin-bottom: 75px !important;
+    }
+    .card-4 {
+        width: 85% !important;
+        margin-left: 40px;
+        margin-bottom: 75px !important;
+    }
+    .contact {
+        text-align: center;
+        margin-left: 0px !important;
+        margin-top: -50px !important;
+    }
+    .footer-text {
+        font-size: 15px !important;
+    }
+}
+@media (min-width: 992px) and ( max-width:1199px){
+    
+}
